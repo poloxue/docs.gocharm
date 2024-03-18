@@ -3,13 +3,11 @@ title: "首页"
 disqus: true
 ---
 
-## 特别说明
+## 首页
 
-本文档是 Go GUI 框架 Fyne v2.4 版中文翻译，查看英文原版请移步：[docs.fyne.io](https://docs.fyne.io/)。
+本文档要介绍如何基于 bubbletea 开发 TUI 应用。我将从它的基础框架、组件、布局等逐步展开。同时，也会提到一些与 BubbleTea 开发团队 Charmbracelet 开发的其他一些命令或库。
 
-Fyne是一个使用Go语言开发的跨平台GUI框架，它通过简单的API为开发现代桌面和移动应用提供了强大的工具。利用矢量图形和 Material Design，Fyne旨在构建美观、高性能的应用程序，支持自动缩放以适应不同屏幕尺寸和分辨率。
-
-![](https://cdn.jsdelivr.net/gh/poloxue/images@gofyne/banner.png)
+我的核心目的还是为了优化工作流，提效我们的日常效率，毕竟相较于 GUI 应用，这才是 TUI 具有的天然优势。如果你对开发一款这样的 TUI 应用充满兴趣，这份文档或许会适合你。
 
 另外，如发现文档中存在任何错误，可直接评论回复，非常感谢。
 

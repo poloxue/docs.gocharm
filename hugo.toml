@@ -1,6 +1,6 @@
 baseURL = 'https://www.poloxue.com/gocharm'
 languageCode = 'zh-cn'
-title = 'CharmTUI 文档'
+title = 'BubbleTea 开发'
 
 #  information on 'doc' type pages.
 enableGitInfo = true
