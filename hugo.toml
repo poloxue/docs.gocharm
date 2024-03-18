@@ -1,6 +1,6 @@
-baseURL = 'https://www.poloxue.com/gofyne'
+baseURL = 'https://www.poloxue.com/gocharm'
 languageCode = 'zh-cn'
-title = 'Go Fyne 中文'
+title = 'CharmTUI 文档'
 
 #  information on 'doc' type pages.
 enableGitInfo = true
